@@ -67,7 +67,7 @@ enum eObjectHandles
     eAwsDeviceCertificate,    /**< Certificate. */
     eAwsCodeSigningKey,       /**< Code Signing Key. */
     eAwsHMACSecretKey,        /**< HMAC Secret Key. */
-    eAwsCMACSecretKey         /**< CMAC Secret Key. */
+    eAwsCMACSecretKey         /**< HMAC Secret Key. */
 };
 
 /*-----------------------------------------------------------*/
